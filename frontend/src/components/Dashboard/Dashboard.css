@@ -1,0 +1,18 @@
+.genre-container {
+  background: grey;
+}
+.dashboard-container {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+a img {
+  transition: 0.2s;
+}
+a img:hover {
+  transform: scale(1.1);
+  filter: brightness(70%);
+}

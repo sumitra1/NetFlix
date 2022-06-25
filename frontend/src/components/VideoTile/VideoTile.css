@@ -1,0 +1,15 @@
+.video-tile {
+  display: flex;
+  width: auto;
+  margin: 0.5em;
+  align-self: stretch;
+}
+.ant-card-body {
+  padding: 0 !important;
+  background: #181818;
+  color: white !important;
+}
+.card-caption {
+  padding: 0;
+  color: white !important;
+}
